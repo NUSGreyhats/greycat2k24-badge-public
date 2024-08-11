@@ -1,6 +1,8 @@
 # greycat2k24-badge-public
 STM32 PCB Badge for GreyCTF 2024 Finals &amp; Summit
 
+Video Demo: https://www.youtube.com/watch?v=-3kVCNrnMXg
+
 Documentation and resources
 1. https://hackin7-blog.vercel.app/posts/2024/2024-08-11-greycat2k24/
 2. https://docs.google.com/presentation/d/1Xcsd1hn-EbjpaH8gOGFS3LMsyoP91qMkbsXBeuZRDfI/edit?usp=sharing
