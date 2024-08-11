@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "usbd_cdc_if.h": "c",
+        "usb_cdc_comms.h": "c",
+        "fonts.h": "c",
+        "ws2812b.h": "c",
+        "lighting,c": "c",
+        "ssd1306.h": "c",
+        "usart.h": "c",
+        "tim.h": "c",
+        "oled.h": "c",
+        "flash.h": "c",
+        "segger_rtt.h": "c",
+        "main.h": "c",
+        "i2c.h": "c",
+        "usb_device.h": "c",
+        "rtc.h": "c",
+        "led.h": "c"
+    }
+}
